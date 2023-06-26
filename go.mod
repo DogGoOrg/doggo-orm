@@ -1,4 +1,4 @@
-module doggo-orm
+module github.com/DogGoOrg/doggo-orm
 
 go 1.20
 
